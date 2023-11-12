@@ -1,7 +1,9 @@
-Hi 👋 My name is @EmeryKroquet, un développeur passionné par la création d'applications backend robustes et performantes. =====================================
+Hi 👋 My name is @EmeryKroquet, un développeur passionné par la création d'applications backend robustes et performantes.
+=========================================================================================================================
 
 
-# Back-end Developper ------------------- 
+# Back-end Developper
+---------------------
 
 
 👀 Je suis intéressé par la conception de solutions logicielles innovantes, en particulier dans le domaine de la gestion de données et du déploiement d'applications à grande échelle.
@@ -12,7 +14,7 @@ Hi 👋 My name is @EmeryKroquet, un développeur passionné par la création d'
 🚀 Mon objectif est de créer des applications qui ne se contentent pas de résoudre des problèmes, mais qui offrent également une expérience utilisateur exceptionnelle.
 Rejoignez-moi dans cette aventure passionnante vers l'innovation technologique !
 
-*🌍  I'm based in Kigali City 
+* 🌍  I'm based in Kigali City 
 * ✉️  You can contact me at [emery.kroquet@gmail.com](mailto:emery.kroquet@gmail.com)
 * 🧠  I'm learning Python and Django
 *  🤝  I'm open to collaborating on Projects
