@@ -1,10 +1,9 @@
 Hi 👋 Je suis  @EmeryKroquet
-
-=========================================================================================================================
+============================
 
 
 # Back-end Developper
----------------------
+  -------------------
 
 * 🌍 Je suis basé à Kigali City 
 * 👀 Je suis intéressé par la conception de solutions logicielles innovantes, en particulier dans le domaine de la gestion de données et du déploiement d'applications à grande échelle.
