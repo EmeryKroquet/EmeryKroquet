@@ -1,4 +1,5 @@
-Hi 👋 My name is @EmeryKroquet, un développeur passionné par la création d'applications backend robustes et performantes.
+Hi 👋 My name is @EmeryKroquet
+un développeur passionné par la création d'applications backend robustes et performantes.
 =========================================================================================================================
 
 
