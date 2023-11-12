@@ -1,25 +1,22 @@
-Hi 👋 My name is @EmeryKroquet
-un développeur passionné par la création d'applications backend robustes et performantes.
+Hi 👋 Je suis  @EmeryKroquet
+
 =========================================================================================================================
 
 
 # Back-end Developper
 ---------------------
 
-
-👀 Je suis intéressé par la conception de solutions logicielles innovantes, en particulier dans le domaine de la gestion de données et du déploiement d'applications à grande échelle.
-🌱 En ce moment, je perfectionne mes compétences en Python et Django, explorant constamment de nouvelles approches pour améliorer l'efficacité et la maintenabilité du code.
-💞️ Je suis ouvert à des collaborations passionnantes sur des projets liés à la technologie, où je pourrais apporter mon expertise en développement backend pour créer des solutions qui repoussent les limites.
-📫 Vous pouvez me contacter facilement par email à \[emery.kroquet@gmail.com\], ou connectez-vous avec moi sur LinkedIn pour discuter de tout ce qui concerne le développement web et les opportunités de collaboration.
-🎓 Titulaire d'un diplôme en Ingénierie de Systèmes Informatiques, mon parcours académique renforce ma capacité à résoudre des problèmes complexes et à concevoir des solutions informatiques efficaces.
-🚀 Mon objectif est de créer des applications qui ne se contentent pas de résoudre des problèmes, mais qui offrent également une expérience utilisateur exceptionnelle.
+* 🌍 Je suis basé à Kigali City 
+* 👀 Je suis intéressé par la conception de solutions logicielles innovantes, en particulier dans le domaine de la gestion de données et du déploiement d'applications à grande échelle.
+* 🌱 En ce moment, je perfectionne mes compétences en Python et Django, explorant constamment de nouvelles approches pour améliorer l'efficacité et la maintenabilité du code.
+* 💞️ Je suis ouvert à des collaborations passionnantes sur des projets liés à la technologie, où je pourrais apporter mon expertise en développement backend pour créer des solutions qui repoussent les limites.
+* 📫 Vous pouvez me contacter facilement par email à [emery.kroquet@gmail.com](mailto:emery.kroquet@gmail.com), ou connectez-vous avec moi sur [emery.kroquet@gmail.com](mailto:www.linkedin.com/in/emery-kroquet) pour discuter de tout ce qui concerne le développement web et les opportunités de collaboration.
+* 🎓 Titulaire d'un diplôme en Ingénierie de Systèmes Informatiques, mon parcours académique renforce ma capacité à résoudre des problèmes complexes et à concevoir des solutions informatiques efficaces.
+* 🚀 Mon objectif est de créer des applications qui ne se contentent pas de résoudre des problèmes, mais qui offrent également une expérience utilisateur exceptionnelle.
+* ⚡  Je suis un développeur passionné par la création d'applications backend robustes et performantes.
+  
 Rejoignez-moi dans cette aventure passionnante vers l'innovation technologique !
 
-* 🌍  I'm based in Kigali City 
-* ✉️  You can contact me at [emery.kroquet@gmail.com](mailto:emery.kroquet@gmail.com)
-* 🧠  I'm learning Python and Django
-*  🤝  I'm open to collaborating on Projects
-* ⚡  Je suis un développeur passionné par la création d'applications backend robustes et performantes.
 
 <a href="https://www.x.com/kmelj24" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/kmelj24?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 
@@ -42,13 +39,3 @@ Rejoignez-moi dans cette aventure passionnante vers l'innovation technologique !
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
-
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/Emery Kroquet"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/Emery Kroquet"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
-</ul>
