@@ -8,6 +8,8 @@
 
 📫 Vous pouvez me contacter facilement par email à [emery.kroquet@gmail.com], ou connectez-vous avec moi sur [LinkedIn](www.linkedin.com/in/emery-lebon-jaime-kroquet-moreno-8964b1115) pour discuter de tout ce qui concerne le développement web et les opportunités de collaboration.
 
+🎓 Titulaire d'un diplôme en Ingénierie de Systèmes Informatiques, mon parcours académique renforce ma capacité à résoudre des problèmes complexes et à concevoir des solutions informatiques efficaces.
+
 🚀 Mon objectif est de créer des applications qui ne se contentent pas de résoudre des problèmes, mais qui offrent également une expérience utilisateur exceptionnelle. Rejoignez-moi dans cette aventure passionnante vers l'innovation technologique !
 
 <!---
