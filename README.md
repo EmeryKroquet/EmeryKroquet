@@ -6,7 +6,7 @@
 
 💞️ Je suis ouvert à des collaborations passionnantes sur des projets liés à la technologie, où je pourrais apporter mon expertise en développement backend pour créer des solutions qui repoussent les limites.
 
-📫 Vous pouvez me contacter facilement par email à [emery.kroquet@gmail.com], ou connectez-vous avec moi sur [LinkedIn](www.linkedin.com/in/emery-lebon-jaime-kroquet-moreno-8964b1115) pour discuter de tout ce qui concerne le développement web et les opportunités de collaboration.
+📫 Vous pouvez me contacter facilement par email à [emery.kroquet@gmail.com], ou connectez-vous avec moi sur [LinkedIn](in/emery-kroquet) pour discuter de tout ce qui concerne le développement web et les opportunités de collaboration.
 
 🎓 Titulaire d'un diplôme en Ingénierie de Systèmes Informatiques, mon parcours académique renforce ma capacité à résoudre des problèmes complexes et à concevoir des solutions informatiques efficaces.
 
